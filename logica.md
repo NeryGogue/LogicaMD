@@ -5,7 +5,7 @@ Se basan en la utilización de diversos símbolos para representar operaciones e
 La simbología utilizada para la elaboración de diagramas de flujo es variable y debe ajustarse a un patrón definido previamente.
 
 ### **Ejemplo:**
-![screen](Diagrama.png)
+![screen](Diagrama.PNG)
 
 ---
 # **PSEUDOCÓDIGO**
@@ -32,7 +32,7 @@ Se considera un primer borrador, dado que el pseudocódigo tiene que traducirse 
 ---
 # **LA CREATIVIDAD Y BLOQUEOS MENTALES**
 
-![screen](Bloqueos.png)
+![screen](Bloqueos.PNG)
 
 ## **LA CREATIVIDAD**
 
@@ -68,7 +68,7 @@ Argumentación incorrecta pero que aparentemente posee una fuerza de prueba que 
 
 En los estudios lógicos, se denomina con el término falacia aquella argumentación viciosa llamada también paralogismo y sofisma, pues, además de ser incorrecta, conlleva una fuerte dosis de persuasión psicológica. En tal sentido, la falacia es una forma de razonamiento que parece correcto, pero que resulta no serlo cuando se lo analiza cuidadosamente.
 
-![screen](Falacia.png)
+![screen](Falacia.PNG)
 
 ---
 
@@ -96,7 +96,7 @@ Consta de tres proposiciones:
 
 ### **Ejemplo 2:**
 
-![screen](Silogismo.jpg)
+![screen](Silogismo.JPG)
 
 ---
 
@@ -299,7 +299,7 @@ Debo ir a clases y no hace frío.
 
 * Nota que las oraciones que llevan Todo o ninguno y a éstos se les llama cuantificadores universales.
 
-![screen](Inconsistencia.png)
+![screen](Inconsistencia.PNG)
 
 ---
 
@@ -420,7 +420,7 @@ Las ordenes o recomendaciones tampoco pueden ser verdaderas o falsas, decimos qu
 
 “Falsedad”  o “Verdad” **son términos de lógica con carácter técnico.** “Verdad”, **es la propiedad de la unidad semántica que describe adecuadamente al mundo. Ese valor es lo que mas interesa al lógico sobre una proposición.**
 
-![IMG](Proposiciones.png)
+![IMG](Proposiciones.PNG)
 ---
 
 # **METODO DE DEDUCCIÓN**
