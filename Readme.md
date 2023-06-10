@@ -96,7 +96,7 @@ Consta de tres proposiciones:
 
 ### **Ejemplo 2:**
 
-![screen](Silogismo.jpg)
+![screen](Silogismo.JPG)
 
 ---
 
