@@ -446,4 +446,3 @@ Si la tierra es un planeta, entonces no posee luz propia. La tierra es un planet
 1. Procedemos a representar la oración en forma simbólica
 
 
-* [x] Task 1
